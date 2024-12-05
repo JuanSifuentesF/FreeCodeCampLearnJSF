@@ -21,7 +21,7 @@ h1 {
 }
 
 .blue {
-  background: hsl(240, 100%, 50%);
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%));
 }
 
 .container {
